@@ -268,7 +268,7 @@ opentelemetry-instrumentation-flask==0.52b1
     # via azure-monitor-opentelemetry
 opentelemetry-instrumentation-httpx==0.52b1
     # via -r requirements.in
-opentelemetry-instrumentation-openai==0.39.0
+opentelemetry-instrumentation-openai==0.49.4
     # via -r requirements.in
 opentelemetry-instrumentation-psycopg2==0.52b1
     # via azure-monitor-opentelemetry
