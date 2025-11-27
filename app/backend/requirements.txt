@@ -368,7 +368,7 @@ quart-cors==0.7.0
     # via -r requirements.in
 regex==2024.11.6
     # via tiktoken
-requests==2.32.4
+requests==2.32.5
     # via
     #   azure-core
     #   msal
