@@ -266,7 +266,7 @@ opentelemetry-instrumentation-fastapi==0.52b1
     # via azure-monitor-opentelemetry
 opentelemetry-instrumentation-flask==0.52b1
     # via azure-monitor-opentelemetry
-opentelemetry-instrumentation-httpx==0.52b1
+opentelemetry-instrumentation-httpx==0.59b0
     # via -r requirements.in
 opentelemetry-instrumentation-openai==0.39.0
     # via -r requirements.in
